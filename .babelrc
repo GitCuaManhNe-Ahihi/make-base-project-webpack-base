@@ -1,0 +1,7 @@
+{
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+        // khai báo preset của react
+    ]
+}
